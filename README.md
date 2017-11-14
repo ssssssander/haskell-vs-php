@@ -1,4 +1,4 @@
-# New Technology: Haskell
+# Haskell versus PHP
 ## Logboek
 ### 06/11/2017
 - Research gedaan (zie bronnen)
